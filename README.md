@@ -4,7 +4,7 @@ This is a simple flash game that I developed for fun. Flash might be dead when S
 ## Live Demo
 * [GhostFighter](http://ghostfighter.herokuapp.com/)
 
-![GhostFighter screenshot](/images/screenshot.png)
+![GhostFighter screenshot](/images/screenshot.jpg)
 
 ## Game Control
 * Use **left** or **right arrow** keys to move
